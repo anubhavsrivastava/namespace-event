@@ -1,0 +1,27 @@
+{
+	"name": "namespace-event",
+	"version": "0.0.1",
+	"description": "Namespaced DOM event handling in Vanilla JS",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anubhavsrivastava/namespace-event.git"
+	},
+	"keywords": [
+		"events",
+		"namespace-event",
+		"event-handler"
+	],
+	"author": {
+		"name": "Anubhav Srivastava",
+		"email": "anubhav.srivastava00@gmail.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/anubhavsrivastava/namespace-event/issues"
+	},
+	"homepage": "https://github.com/anubhavsrivastava/namespace-event#readme"
+}
